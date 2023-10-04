@@ -1,8 +1,8 @@
 ## **2. Add Two Numbers**
 
-| Time Submitted | Question | Runtime | Memory Usage |
-| -------------- | -------- | ------- | -------------| 
-| 11/30/2022 23:28| Add Two Numbers| 47 ms |71.3 MB|
+| Time Submitted | Runtime | Memory Usage | Status|
+| -------------- |  ------- | -------------| --|
+| 11/30/2022 23:28| 47 ms |71.3 MB| Accepted |
 
 ```
 /**
