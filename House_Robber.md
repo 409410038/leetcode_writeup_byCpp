@@ -7,7 +7,7 @@
 ### Intuition
 The only constraint is whether the neighbor has been robbed. So you don't need to find out entire robbing pattern. Just consider the current one rob or not.
 
-Approach
+### Approach
 If the current solution satisfies the constraint and you calculate the new solution under the constraint, all the solutions will satisfy the constraint.
 
 #### step 1: Initialize the current solution. (No.0 house included only)
